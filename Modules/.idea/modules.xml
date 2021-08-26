@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Consumer2Module/Consumer2Module.iml" filepath="$PROJECT_DIR$/Consumer2Module/Consumer2Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConsumerModule/ConsumerModule.iml" filepath="$PROJECT_DIR$/ConsumerModule/ConsumerModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modules.iml" filepath="$PROJECT_DIR$/Modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewConsumer/NewConsumer.iml" filepath="$PROJECT_DIR$/NewConsumer/NewConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Provider2Module/Provider2Module.iml" filepath="$PROJECT_DIR$/Provider2Module/Provider2Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Provider3Module/Provider3Module.iml" filepath="$PROJECT_DIR$/Provider3Module/Provider3Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProviderModule/ProviderModule.iml" filepath="$PROJECT_DIR$/ProviderModule/ProviderModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service/Service.iml" filepath="$PROJECT_DIR$/Service/Service.iml" />
+    </modules>
+  </component>
+</project>
